@@ -1,0 +1,26 @@
+{
+  "name": "Demo Day Participation",
+  "symbol": "SVCC",
+  "description": "This collection includes exclusive Demo Day Participation certificates for the Solana Vietnam Coding Camp Season 2.",
+  "seller_fee_basis_points": 0,
+  "image": "20.png",
+  "attributes": [
+    { "trait_type": "Layer-1", "value": "0" },
+    { "trait_type": "Layer-2", "value": "0" },
+    { "trait_type": "Layer-3", "value": "0" },
+    { "trait_type": "Layer-4", "value": "LE MINH ANH" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2vAEiACep3J1N2J6YY9gt4gAbbFEvuVdWgyu8KUkgzgn",
+        "share": 100
+      }
+    ],
+    "files": [{ "uri": "20.png", "type": "image/png" }]
+  },
+  "collection": {
+    "name": "Demo Day Participation",
+    "family": "Solana VN coding camp"
+  }
+}

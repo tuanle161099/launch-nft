@@ -1,0 +1,21 @@
+{
+  "name": "Code Camp Participation",
+  "symbol": "SVCC",
+  "description": "This collection includes exclusive Coding Camp Participation certificates for the Solana Vietnam Coding Camp Season 2.  ",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2vAEiACep3J1N2J6YY9gt4gAbbFEvuVdWgyu8KUkgzgn",
+        "share": 100
+      }
+    ]
+  }
+}

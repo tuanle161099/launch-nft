@@ -1,0 +1,21 @@
+{
+  "name": " Code Camp Participation",
+  "symbol": "SVCC",
+  "description": "This collection includes exclusive Coding Camp Participation certificates for the Solana Vietnam Coding Camp Season 2.",
+  "seller_fee_basis_points": 0,
+  "image": "25.png",
+  "attributes": [{ "trait_type": "Layer-1", "value": "NGUYEN HUNG CUONG" }],
+  "properties": {
+    "creators": [
+      {
+        "address": "2vAEiACep3J1N2J6YY9gt4gAbbFEvuVdWgyu8KUkgzgn",
+        "share": 100
+      }
+    ],
+    "files": [{ "uri": "25.png", "type": "image/png" }]
+  },
+  "collection": {
+    "name": " Code Camp Participation",
+    "family": "Solana VN coding camp"
+  }
+}
